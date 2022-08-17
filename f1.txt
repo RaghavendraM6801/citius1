@@ -7,3 +7,6 @@ One more line.!
 Day 2 GIT
 Line 1 added in f1.txt
 
+Branch-1 Changes
+Line 1 added in branch f1.txt
+
